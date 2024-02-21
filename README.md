@@ -1,5 +1,6 @@
 # Mini_Omnibus_Backplane
 Small PDP-8/E/F/M Omnibus backplane for debugging Omnibus boards and to build a minimal system
+
 ![image](https://github.com/G-Wiley/Mini_Omnibus_Backplane/assets/99116236/ccd8f3f6-ffc1-482c-9b5c-51264b36e999)
 
 For a long time I didn’t have a PDP-8/E/F/M chassis with backplane and power supply and wanted to get a system running using my Omnibus board collection. So, I built a small Omnibus backplane with only 8 slots which was sufficient to test basic stuff but not large enough to bring up OS/8. While debugging the first mini backplane I discovered some issues which have been fixed in version "v2". 
